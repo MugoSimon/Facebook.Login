@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306778162088",
+    "project_id": "facebook-login-d1224",
+    "storage_bucket": "facebook-login-d1224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306778162088:android:cf389e5687bc9a8f0a139d",
+        "android_client_info": {
+          "package_name": "lastie_wangechian_facebooklogin.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306778162088-ssktop9gqbl6u7rv8b4keas2oosnub05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT00UfD2h9lLwiMzs_0rKR29GBh9UNlVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306778162088-ssktop9gqbl6u7rv8b4keas2oosnub05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
